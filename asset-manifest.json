@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.22b99ea1.chunk.css",
-    "main.js": "/static/js/main.c280251b.chunk.js",
-    "main.js.map": "/static/js/main.c280251b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.22f69300.js",
-    "runtime-main.js.map": "/static/js/runtime-main.22f69300.js.map",
-    "static/css/2.786ae0dd.chunk.css": "/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.db7af554.chunk.js": "/static/js/2.db7af554.chunk.js",
-    "static/js/2.db7af554.chunk.js.map": "/static/js/2.db7af554.chunk.js.map",
+    "main.css": "/static/css/main.245ac0bb.chunk.css",
+    "main.js": "/static/js/main.bc91f184.chunk.js",
+    "main.js.map": "/static/js/main.bc91f184.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.603e53e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.603e53e8.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.e4a5ac18.chunk.js": "/static/js/2.e4a5ac18.chunk.js",
+    "static/js/2.e4a5ac18.chunk.js.map": "/static/js/2.e4a5ac18.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.786ae0dd.chunk.css.map": "/static/css/2.786ae0dd.chunk.css.map",
-    "static/css/main.22b99ea1.chunk.css.map": "/static/css/main.22b99ea1.chunk.css.map",
-    "static/js/2.db7af554.chunk.js.LICENSE.txt": "/static/js/2.db7af554.chunk.js.LICENSE.txt",
-    "static/js/gifToCanvas.worker.e6946d48.worker.js": "/static/js/gifToCanvas.worker.e6946d48.worker.js",
-    "static/js/gifToCanvas.worker.e6946d48.worker.js.map": "/static/js/gifToCanvas.worker.e6946d48.worker.js.map"
+    "static/css/2.2b8316e7.chunk.css.map": "/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.245ac0bb.chunk.css.map": "/static/css/main.245ac0bb.chunk.css.map",
+    "static/js/2.e4a5ac18.chunk.js.LICENSE.txt": "/static/js/2.e4a5ac18.chunk.js.LICENSE.txt",
+    "static/js/gifToCanvas.worker.0639ec91.worker.js": "/static/js/gifToCanvas.worker.0639ec91.worker.js",
+    "static/js/gifToCanvas.worker.0639ec91.worker.js.map": "/static/js/gifToCanvas.worker.0639ec91.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.22f69300.js",
-    "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.db7af554.chunk.js",
-    "static/css/main.22b99ea1.chunk.css",
-    "static/js/main.c280251b.chunk.js"
+    "static/js/runtime-main.603e53e8.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.e4a5ac18.chunk.js",
+    "static/css/main.245ac0bb.chunk.css",
+    "static/js/main.bc91f184.chunk.js"
   ]
 }
